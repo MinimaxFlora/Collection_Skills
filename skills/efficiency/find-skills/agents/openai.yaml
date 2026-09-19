@@ -1,0 +1,5 @@
+interface:
+  display_name: "Find Skills"
+  short_description: "帮助发现和安装适合的 Agent Skills"
+policy:
+  allow_implicit_invocation: false
